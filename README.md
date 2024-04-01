@@ -1,8 +1,16 @@
-# iOS Flashcards
-(once i finish the app) 
-![iOS Flashcards Logo](link-to-your-logo-image) thus
+# 📱 iOS Multiplication Pro Tables 🧮
+<div align="center">
+  <img src="https://github.com/ailynux/iOS-flashcards/assets/95152597/d2e9ce7c-6842-4be3-8d37-4b6f052758c2" alt="iOS Flashcards Logo" width="300" height="600">
+  <p>iOS Flashcards is an engaging educational app developed using Swift. This app offers a fun and interactive way for users to study multiplication tables up to 12x12.</p>
+</div>
 
-iOS Flashcards is an engaging educational app developed using Swift. This app offers a fun and interactive way for users to study multiplication tables up to 12x12.
+<!-- Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/platform-iOS-blue" alt="Platform">
+  <img src="https://img.shields.io/github/stars/ailynux/iOS-flashcards" alt="Stars">
+  <img src="https://img.shields.io/github/forks/ailynux/iOS-flashcards" alt="Forks">
+  <img src="https://img.shields.io/github/issues/ailynux/iOS-flashcards" alt="Issues">
+</div>
 
 ## Features
 
@@ -13,11 +21,9 @@ iOS Flashcards is an engaging educational app developed using Swift. This app of
   - Allow the player to select which set of tables they want to practice.
   - Allow the player to select how many questions are in the quiz.
 
-## Screenshots (once i finish the app) 
+## Screenshots
 
-![Screenshot 1](link-to-screenshot-1)
-![Screenshot 2](link-to-screenshot-2)
-![Screenshot 3](link-to-screenshot-3)
+
 
 ## Installation
 
