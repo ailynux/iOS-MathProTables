@@ -1,6 +1,6 @@
 # iOS Flashcards
 (once i finish the app) 
-![iOS Flashcards Logo](link-to-your-logo-image)
+![iOS Flashcards Logo](link-to-your-logo-image) thus
 
 iOS Flashcards is an engaging educational app developed using Swift. This app offers a fun and interactive way for users to study multiplication tables up to 12x12.
 
